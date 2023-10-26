@@ -9,6 +9,7 @@ A curated list of tools and software for editing text and images.
 - **LibreOffice Writer:** A free and open-source word processing program.
 - **Notepad++:** A powerful, free source code and text editor.
 - **Sublime Text:** A popular and customizable code editor with extensive text editing capabilities.
+- **XediX**: A simple text editor writenn in Python.
 - **Visual Studio Code (VS Code):** A versatile and extensible code editor suitable for text and code editing.
 - **Notion:** A versatile platform for creating text documents and notes.
 - **Google Docs:** An online document editing and collaboration platform.
