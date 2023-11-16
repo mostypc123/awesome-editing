@@ -1,5 +1,5 @@
 # awesome-editing
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of tools and software for editing text and images.
 
 ## Text Editing
